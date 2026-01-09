@@ -12,7 +12,7 @@ Bu depo, **HT Studio 987** tarafından geliştirilen **abc987** mobil kelime oyu
 Oyun **Türkçe (TR)** ve **İngilizce (EN)** dillerini destekler.
 
 📘 **Nasıl Oynanır / How to Play:**  
-👉 [HOW_TO_PLAY.md](https://github.com/HTStudio987/abc987-assets/blob/main/HOW_TO_PLAY.md)
+👉 [HOW_TO_PLAY.md](https://github.com/HTStudio987/abc987-assets/blob/main/how_to_play.md)
 
 ---
 
